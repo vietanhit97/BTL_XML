@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="BTL.xsl"?>
+<DSSanPham 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="BTL.xsd">
+    <Sanpham>
+        <id>1</id>
+        <name>Áo sơ mi</name>
+        <Category_id>1</Category_id>
+        <desscription>abc</desscription>
+        <amount>100</amount>
+        <price>1000000</price>
+        <size>M</size>
+        <image type=".jpg">a</image>
+    </Sanpham>
+    <Sanpham>
+        <id>2</id>
+        <name>Quần bò</name>
+        <Category_id>2</Category_id>
+        <desscription>12312vxvxcv</desscription>
+        <amount>1000</amount>      
+        <price>1000000</price>
+        <size>M</size>
+        <image type=".jpg">Anh</image> 
+    </Sanpham>    
+    <Sanpham>
+        <id>3</id>
+        <name>Quần âu</name>
+        <Category_id>3</Category_id>
+        <desscription>12312vxvxcv</desscription>
+        <amount>1000</amount>
+        <price>200000</price>
+        <size>XL</size>
+        <image type=".jpg">anh</image>
+    </Sanpham>
+    <Sanpham>
+        <id>4</id>
+        <name>Quần ngố</name>
+        <Category_id>4</Category_id>
+        <desscription>12312vxvxcv</desscription>
+        <amount>0</amount> 
+        <price>100000000</price>
+        <size>XXL</size>
+        <image type=".jpg">anh</image>
+    </Sanpham>   
+
+</DSSanPham>
